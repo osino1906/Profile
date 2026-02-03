@@ -15,7 +15,7 @@
    * 2024-2025: Fe Credit - Back-end developer (Python AWS - Angular)
 - IT Security (SOC Analyst and Pentest):
   * 2023-2024: HTC Global - SOC Analyst + Pentest (Splunk - Mitre Att&ck)
-  * 
+    
 # Project from job (Dự án từ công việc):
 - UCRM-V3: BaseBS - (07-2025 - Present)
 - FE Olnine 2: FE Credit - (08/2024 - 05/2025)
