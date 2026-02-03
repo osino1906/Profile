@@ -16,7 +16,7 @@
 - IT Security (SOC Analyst and Pentest):
   * 2023-2024: HTC Global - SOC Analyst + Pentest (Splunk - Mitre Att&ck)
   * 
-# Project from job (Dự án từ công việc)
+# Project from job (Dự án từ công việc):
 - UCRM-V3: BaseBS - (07-2025 - Present)
 - FE Olnine 2: FE Credit - (08/2024 - 05/2025)
 - Portal Interface (Web Application): FE Credit - (06/2024 - 05/2025)
@@ -26,5 +26,5 @@
 - Ubank - HTC Global - (06/2023 - 09/2023)
 - VT-BT - HTC Global - (08/2023 - 12/2023)
 
-# Personal Project (Dự án cá nhân)
+# Personal Project (Dự án cá nhân):
 - DWS (Digital Web Application) - (01/2025 - Present)
